@@ -1,0 +1,3 @@
+Hello from Streams!
+Line 2
+Line 3
